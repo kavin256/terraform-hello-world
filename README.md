@@ -1,2 +1,9 @@
 # terraform-hello-world
-Sample codes to study terraform
+Commands
+
+terraform init
+terraform fmt
+terraform plan
+terraform apply
+terraform plan -destroy
+terraform apply -destroy
